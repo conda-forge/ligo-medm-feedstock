@@ -24,8 +24,8 @@ source:
     # - no-macports.patch  # [osx]
 
 build:
-  number: 2
-  skip: true  # [win or osx]
+  number: 3
+  skip: true  # [win]
 
 requirements:
   build:
